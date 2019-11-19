@@ -1,0 +1,37 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "Judul",
+      "content": "Ini Content"
+    },
+    {
+      "id": 2,
+      "title": "makan gelas",
+      "content": "Gelas Kaca"
+    },
+    {
+      "id": 3,
+      "title": "perut kosong",
+      "content": "makan uang"
+    },
+    {
+      "id": 4
+    },
+    {
+      "title": "minum ",
+      "content": "makan nasi",
+      "id": 5
+    },
+    {
+      "title": "botol",
+      "content": "merah",
+      "id": 6
+    },
+    {
+      "title": "makan",
+      "content": "botol",
+      "id": 7
+    }
+  ]
+}
