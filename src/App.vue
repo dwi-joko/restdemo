@@ -21,6 +21,7 @@
     </div>
   </div>
   <div class="middle">
+    <form @submit.prevent="save">
     <label for="">Item yang dijual</label>
     <table>
       <tr>
@@ -39,6 +40,8 @@
       </tr>
   <div class="add-item"><button>+ Tambah item lain</button></div>
     </table>
+
+    </form>
   </div>
 
   <div class="bottom">
